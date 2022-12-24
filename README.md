@@ -12,4 +12,4 @@
  <li>Update Password<br></li>
  <li>Delete Account</li>
  </ul>
-<h3>Note : </h3> DataBase name is email-verification
+<h3 style="color:red;">* Note : </h3> DataBase name is email-verification
