@@ -1,4 +1,4 @@
-# Email-Verification and forget password
+# Email-Verification and Forget password
  <ul>Email-Verification and forget password using <b>laravel Breeze</b> , <b>mailgun</b> , <b> Laravel 9 </b> and <b> PHP 8 </b><br>
  <li><ul><h3>Rgisted and Login With User-Dashboord</h3></li>
  <li>to Rgister you will recive verification email in your mail to can register</li>
